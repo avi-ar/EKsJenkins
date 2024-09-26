@@ -10,7 +10,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 
-                git 'https://github.com/yourusername/yourrepository.git'
+                git 'https://github.com/avi-ar/EKsJenkins.git'
             }
         }
 
